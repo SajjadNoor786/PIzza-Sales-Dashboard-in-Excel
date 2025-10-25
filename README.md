@@ -50,7 +50,7 @@ The dashboard enables users to explore the data through slicers and visualize ye
 ---
 
 📷 Dashboard Preview
-![Pizza Dashboard Preview](Pizza sales analysis.png)
+![Pizza Dashboard Preview](Pizza.png)
 
 ### 📂 Download Dashboard
 You can download and explore the full **Excel Dashboard (Pizza Sales Dashboard)** using the link below.  
